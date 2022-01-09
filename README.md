@@ -1,4 +1,4 @@
-# wsa_pacman
+# wsa_pacman window 安装 apk
 
 ![Installer](README/screenshots/installer.png?raw=true "Installer")
 
